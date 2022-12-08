@@ -1,5 +1,3 @@
-import os
-
 def main():
     #read the input file
     f = open("Day 1/input.txt", "r")
